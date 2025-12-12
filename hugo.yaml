@@ -194,17 +194,17 @@ params:
             content: "— Évaluation d’un logiciel CFD (MixIT Tridiagonal) pour l’analyse de l’hydrodynamique des réacteurs agités.
                       — Modélisation de la mise en suspension solide à l’aide d’un modèle lagrangien (DPM) afin de résoudre les problèmes de décantation du produit lors de la vidange.
                       — Simulation du transfert thermique, optimisation des performances thermiques et évaluation de la capacité de chauffage/refroidissement du milieu réactionnel en 1h30."
-            #info:
-              content: Working as a senior software developer
+            info:
+              content: Stagiaire en modélisation CFD.
             #featuredItems:
-              fontAwesomeIcons:
+              #fontAwesomeIcons:
                 - icon: fa-brands fa-react
                   url: https://react.dev/
                   tooltip: Example tooltip content
                 - icon: fab fa-x-twitter
                   url: https://example.com
                   # tooltip: Example tooltip content
-              customIcons:
+              #customIcons:
                 - icon: /fav.png
                   url: "https://example.com"
                   tooltip: Example tooltip content
