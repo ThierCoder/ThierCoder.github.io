@@ -190,7 +190,7 @@ params:
         companyUrl: "https://example.com"
         jobs:
           - name: "Stagiaire - Ingénieur CFD Junior"
-            date: "Mai 2025 - Sept 2025"
+            date: "Mai 2025 - Sep 2025"
             info:
               content: Stagiaire en modélisation CFD.
             content: |
@@ -198,56 +198,26 @@ params:
               - Modélisation de la mise en suspension solide à l’aide d’un modèle lagrangien (DPM) afin de résoudre les problèmes de décantation du produit lors de la vidange.
               - Simulation du transfert thermique, optimisation des performances thermiques et évaluation de la capacité de chauffage/refroidissement du milieu réactionnel en 1h30.
       
-      - company: "Amazon"
+      - company: "Reminex SA, Marrakech"
         companyUrl: "https://example.com"
         jobs:
-          - name: "Software Developer"
-            date: "Sep 2020 - Dec 2021"
+          - name: "Stagiaire en pilotage procédés"
+            date: "Sep 2023 - Dec 2023"
             info:
-              content: I worked as a software developer for more than one year in Amazon.
+              content: J'ai travaillé sur le suivi des opérations de pilotage.
             content: |
-              I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+              - Optimisation des paramètres de pompage et de séparation liquide-solide par hydrocyclone.
+              - Analyse physicochimique des échantillons pour évaluer les performances des équipements.
+              - Supervision des essais expérimentaux et interprétation des résultats pour proposer des axes d’amélioration du procédé.
 
-              - Lead backend developer for a product.
-              - Created a frontend design for a product.
-
-      - company: "Apple"
+      - company: "Group OCP, Khouribga"
         companyUrl: "https://example.com"
         jobs: 
-        - name: "Junior Software Developer"
-          date: "Jan 2020 - Aug 2020"
-          featuredItems:
-            fontAwesomeIcons:
-              - icon: fa-brands fa-react
-                url: https://react.dev/
-              - icon: fab fa-x-twitter
-                url: https://example.com
-            customIcons:
-              - icon: /fav.png
-                url: "https://example.com"
+        - name: "Stagiaire - ingénieur procédés junior"
+          date: "Fév 2020 - Juin 2020"
           content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
-
-      - company: "Netflix"
-        companyUrl: "https://example.com"
-        jobs:
-        - name: "UI/UX Designer"
-          date: "June 2017 - Nov 2019"
-          content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
-
-      - company: "Google"
-        companyUrl: "https://example.com"
-        jobs:
-        - name: "Product Designer"
-          date: "Feb 2016 - Mar 2017"
-          content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+            - Modélisé un procédé de décantation pour optimiser l’utilisation des additifs en utilisant la méthode des plans d’expérience(DoE).
+            - Étude de faisabilité d’un procédé énergétiquement plus efficient basé sur l’utilisation des micro-ondes.
 
   # Education
   education:
