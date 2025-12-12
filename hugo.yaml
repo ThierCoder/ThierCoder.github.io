@@ -264,7 +264,7 @@ params:
       - title: C++ Programming
         content: Pour avoir suivi le cours “Complete Guide to C++ Programming Foundations” de Eduardo Corpeño !
         url: https://www.linkedin.com/learning/certificates/7d3ff5d644598b7178fa448ae6fea496e3aa1394759a16ae4b46ec1fe1e58a08?trk=share_certificate
-        image: /images/badgecpp.png
+        image: /images/cpp.jpg
       - title: Data Science Lab
         content: Science des données et Machine Learning délivré par WorldQuant University.
         url: https://www.credly.com/badges/c110b680-7579-4c48-9c80-e06ca9efd615/public_url
