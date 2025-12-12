@@ -191,11 +191,13 @@ params:
         jobs:
           - name: "Stagiaire - Ingénieur CFD Junior"
             date: "Mai 2025 - Sept 2025"
-            content: "— Évaluation d’un logiciel CFD (MixIT Tridiagonal) pour l’analyse de l’hydrodynamique des réacteurs agités.
-                      — Modélisation de la mise en suspension solide à l’aide d’un modèle lagrangien (DPM) afin de résoudre les problèmes de décantation du produit lors de la vidange.
-                      — Simulation du transfert thermique, optimisation des performances thermiques et évaluation de la capacité de chauffage/refroidissement du milieu réactionnel en 1h30."
             info:
               content: Stagiaire en modélisation CFD.
+            content: |
+                  — Évaluation d’un logiciel CFD (MixIT Tridiagonal) pour l’analyse de l’hydrodynamique des réacteurs agités.
+                  — Modélisation de la mise en suspension solide à l’aide d’un modèle lagrangien (DPM) afin de résoudre les problèmes de décantation du produit lors de la vidange.
+                  — Simulation du transfert thermique, optimisation des performances thermiques et évaluation de la capacité de chauffage/refroidissement du milieu réactionnel en 1h30.
+            
             #featuredItems:
               #fontAwesomeIcons:
                 - icon: fa-brands fa-react
