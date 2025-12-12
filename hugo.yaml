@@ -137,7 +137,7 @@ params:
     intro: "Bonjour, mon nom est"
     title: "Thierno."
     subtitle: "Je réalise des modélisations CFD"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    content: "Diplômé d’un Master 2 en Mécanique des Fluides et Énergétique avec une solide base en Dynamique des Fluides Numérique (CFD) et développement de codes scientifiques (C/C++, Matlab, Python)."
     image: /images/hero.jpg
     bottomImage:
       enable: true
@@ -174,11 +174,11 @@ params:
       title: "Voici quelques compétences sur lesquelles j'ai récement travaillé :"
       items:
         - "OpenFoam"
-        - "Maillage"
         - "Git"
         - "Linux"
         - "C++"
         - "Méthode Volumes Finis"
+        - "Maillage (blockMesh, snappyHexMesh)"
 
   # Experience
   experience:
@@ -186,7 +186,7 @@ params:
     title: "Mes expériences"
     # title: "Custom Name"
     items:
-      - company: "Servier, Bolbec"
+      - company: "Servier"
         companyUrl: "https://example.com"
         jobs:
           - name: "Stagiaire - Ingénieur CFD Junior"
@@ -198,7 +198,7 @@ params:
               - Modélisation de la mise en suspension solide à l’aide d’un modèle lagrangien (DPM) afin de résoudre les problèmes de décantation du produit lors de la vidange.
               - Simulation du transfert thermique, optimisation des performances thermiques et évaluation de la capacité de chauffage/refroidissement du milieu réactionnel en 1h30.
       
-      - company: "Reminex SA, Marrakech"
+      - company: "Reminex SA"
         companyUrl: "https://example.com"
         jobs:
           - name: "Stagiaire en pilotage procédés"
@@ -210,7 +210,7 @@ params:
               - Analyse physicochimique des échantillons pour évaluer les performances des équipements.
               - Supervision des essais expérimentaux et interprétation des résultats pour proposer des axes d’amélioration du procédé.
 
-      - company: "Group OCP, Khouribga"
+      - company: "Group OCP"
         companyUrl: "https://example.com"
         jobs: 
         - name: "Stagiaire - ingénieur procédés junior"
