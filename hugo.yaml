@@ -60,7 +60,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "MTS"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -116,7 +116,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "MTS" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -134,7 +134,7 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Bonjour, mon est"
+    intro: "Bonjour, mon nom est"
     title: "Thierno."
     subtitle: "Je réalise des modélisations CFD"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
@@ -145,7 +145,7 @@ params:
     button:
       enable: true
       name: "Mon CV"
-      url: "#"
+      url: "https://drive.google.com/file/d/1wXKx32isToFrGBAJanAnK8UxIqkPNshP/view?usp=drive_link"
       download: true
       newPage: false
     socialLinks:
@@ -181,6 +181,7 @@ params:
   # Experience
   experience:
     enable: true
+    title: "Mes expériences"
     # title: "Custom Name"
     items:
       - company: "Facebook"
@@ -261,7 +262,7 @@ params:
   # Education
   education:
     enable: true
-    # title: "Custom Name"
+    title: "Foramtion"
     index: false
     items:
       - title: "Master of Business Administration"
@@ -392,7 +393,7 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com
