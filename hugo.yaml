@@ -265,13 +265,13 @@ params:
         content: Science des données et Machine Learning délivré par WorldQuant University.
         url: https://www.credly.com/badges/c110b680-7579-4c48-9c80-e06ca9efd615/public_url
         image: /images/badgeWQU.png
-      - title: Data Science Lab
-        content: Science des données et Machine Learning délivré par WorldQuant University.
-        url: https://www.credly.com/badges/c110b680-7579-4c48-9c80-e06ca9efd615/public_url
-        image: /images/badgeWQU.png
-      - title: Data Science Lab
-        content: Science des données et Machine Learning délivré par WorldQuant University.
-        url: https://www.credly.com/badges/c110b680-7579-4c48-9c80-e06ca9efd615/public_url
+      - title: Data Analytics Essentials
+        content: Pour avoir édtudiés les fondamentaux de la science des données. Délivré par Cisco.
+        url: https://www.credly.com/badges/3c80894d-30a3-4886-a4ff-321ff206f62f/public_url
+        image: /images/cisco.png
+      - title: Energy Transition - Innovation to Low Carbon Future
+        content: Délivré par IFP School pour avoir suivi tous cours et passé toutes les épreuves sur la transition énergétique.
+        url: #https://www.credly.com/badges/c110b680-7579-4c48-9c80-e06ca9efd615/public_url
         image: /images/badgeWQU.png
 
   # projects
