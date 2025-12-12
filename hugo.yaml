@@ -1,7 +1,8 @@
 baseURL: "https://thiercoder.github.io/"
-languageCode: "en-us"
-title: "Hugo Profile"
+#languageCode: "en-us"
+title: "Mon portfolio d'ingénieur CFD"
 theme: hugo-profile
+defaultContentLanguage: "fr"
 
 outputs:
   home:
@@ -302,7 +303,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
