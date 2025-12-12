@@ -161,8 +161,8 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
-    image: "/images/me.png"
+    title: "A propos"
+    image: "/images/hero.jpg"
     content: |-
       Titulaire d'un Master en Mécanique des Fluides et énergétique, j'ai travaillé lors de mon expérience précédente sur l'évaluation du logiciel CFD (MixIT Tridiagonal) pour analyser l’hydrodynamique de cuves agitées. Ainsi, j'ai effectué d'une part des modélisations diphasiques (solide-liquide) pour résoudre des problématiques liées à la décantation et d'autre part des simulations de transfert thermique et de calcul de temps de mélange pour améliorer les performances des réacteurs. 
 
@@ -171,14 +171,14 @@ params:
       Je suis passionné par la recherche de solutions innovantes pour améliorer l'efficacité des processus industriels et énergétiques.
     skills:
       enable: true
-      title: "Voici quelques compétences sur lesquelles j'ai travaillé récement:"
+      title: "Voici quelques compétences sur lesquelles j'ai récement travaillé :"
       items:
         - "OpenFoam"
         - "Maillage"
-        - "Discrétisation Volumes Finis"
         - "Git"
         - "Linux"
         - "C++"
+        - "Discrétisation Volumes Finis"
 
   # Experience
   experience:
