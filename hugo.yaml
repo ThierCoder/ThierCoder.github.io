@@ -147,7 +147,7 @@ params:
       name: "Mon CV"
       url: "https://drive.google.com/file/d/1wXKx32isToFrGBAJanAnK8UxIqkPNshP/view?usp=drive_link"
       download: true
-      newPage: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
@@ -372,10 +372,10 @@ params:
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
+    title: "Me contacter ?"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    btnName: Mon e-mail
+    btnLink: mailto:thierno.sene@outlook.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
