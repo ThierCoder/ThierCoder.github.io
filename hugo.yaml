@@ -269,7 +269,7 @@ params:
     items:
       - title: "Master en Mécanique des fluides et Energétique"
         school:
-          name: "Ecolde Centrale de Lyon, Ecculy"
+          name: "Ecolde Centrale de Lyon, Ecully"
           url: "https://www.ec-lyon.fr/"
         date: "2024 - 2025"
         #GPA: "3.8 out of 5.0"
@@ -281,18 +281,19 @@ params:
         #GPA: "3.9 out of 5.0"
       - title: "Diplôme de Technicien Spécialisé"
         school:
-          name: "Institut des Mines de Marrakech"
+          name: "Institut des Mines de Marrakech, Marrakech"
           url: "https://www.emm.ac.ma/"
         date: "2015 - 2017"
         featuredLink:
           enable: false
           name: "My academic record"
           url: "https://example.com"
-      - title: "Etudes secondaires"
+      - title: "Baccalauréat en Mathématiques et Sciences Physiques"
         school:
           name: "Lycée Darou Mousty."
           #url: "https://example.org"
         #GPA: "4.2 out of 5.0"
+        date: "2012 - 2015"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -379,8 +380,8 @@ params:
     formspree:
        enable: true # `contact.email` value will be ignored
        formId: xeoyvzdr # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-       emailCaption: "Enter your email address"
-       messageCaption: "Enter your message here"
+       emailCaption: "Mon adresse mail"
+       messageCaption: "Ecrivez votre message ici"
        messageRows: 5
 
   footer:
