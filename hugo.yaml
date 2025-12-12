@@ -164,19 +164,21 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      Titulaire d'un Master en Mécanique des Fluides et énergétique, j'ai travaillé lors de mon expérience précédente sur l'évaluation du logiciel CFD (MixIT Tridiagonal) pour analyser l’hydrodynamique de cuves agitées. Ainsi, j'ai effectué d'une part des modélisations diphasiques (solide-liquide) pour résoudre des problématiques liées à la décantation et d'autre part des simulations de transfert thermique et de calcul de temps de mélange pour améliorer les performances des réacteurs. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Mon parcours académique à Centrale Lyon en mécanique des fluides et énergétique, combiné à mon expérience en génie des procédés, renforce mes compétences en simulation numérique, modélisation 3D et écoulement. 
+
+      Je suis passionné par la recherche de solutions innovantes pour améliorer l'efficacité des processus industriels et énergétiques.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Voici quelques compétences sur lesquelles j'ai travaillé récement:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "OpenFoam"
+        - "Maillage"
+        - "Discrétisation Volumes Finis"
+        - "Git"
+        - "Linux"
+        - "C++"
 
   # Experience
   experience:
