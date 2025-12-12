@@ -144,19 +144,19 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
+      name: "Mon CV"
       url: "#"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/ThierCoder
         - icon: fab fa-x-twitter
-          url: https://example.com
+          url: https://x.com/MTS905
       customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: /images/linkedin.png
+          url: "https://www.linkedin.com/in/tsene16d/"
 
   # About
   about:
