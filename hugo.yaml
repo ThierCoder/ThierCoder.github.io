@@ -271,7 +271,7 @@ params:
         school:
           name: "Ecolde Centrale de Lyon, Ecculy"
           url: "https://www.ec-lyon.fr/"
-        date: "2025"
+        date: "2024 - 2025"
         #GPA: "3.8 out of 5.0"
         #content: |-
           Extracurricular Activities
@@ -297,7 +297,7 @@ params:
           url: "https://www.emm.ac.ma/"
         date: "2015 - 2017"
         featuredLink:
-          enable: false
+          enable: true
           name: "My academic record"
           url: "https://example.com"
       - title: "Etudes secondaires"
@@ -306,7 +306,7 @@ params:
           #url: "https://example.org"
         #GPA: "4.2 out of 5.0"
         featuredLink:
-          enable: false
+          enable: true
           url: "https://example.com"
 
   # Achievements
