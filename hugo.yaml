@@ -186,15 +186,17 @@ params:
     title: "Mes expériences"
     # title: "Custom Name"
     items:
-      - company: "Facebook"
+      - company: "Servier, Bolbec"
         companyUrl: "https://example.com"
         jobs:
-          - name: "Senior Software Developer"
-            date: "Jan 2023 - present"
-            content: "I am currently working as a senior software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-            info:
+          - name: "Stagiaire - Ingénieur CFD Junior"
+            date: "Mai 2025 - Sept 2025"
+            content: "— Évaluation d’un logiciel CFD (MixIT Tridiagonal) pour l’analyse de l’hydrodynamique des réacteurs agités.
+                      — Modélisation de la mise en suspension solide à l’aide d’un modèle lagrangien (DPM) afin de résoudre les problèmes de décantation du produit lors de la vidange.
+                      — Simulation du transfert thermique, optimisation des performances thermiques et évaluation de la capacité de chauffage/refroidissement du milieu réactionnel en 1h30."
+            #info:
               content: Working as a senior software developer
-            featuredItems:
+            #featuredItems:
               fontAwesomeIcons:
                 - icon: fa-brands fa-react
                   url: https://react.dev/
@@ -206,9 +208,9 @@ params:
                 - icon: /fav.png
                   url: "https://example.com"
                   tooltip: Example tooltip content
-          - name: "Software Developer"
-            date: "Jan 2022 - Dec 2023"
-            content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
+          #- name: "Software Developer"
+            #date: "Jan 2022 - Dec 2023"
+            #content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
 
       - company: "Amazon"
         companyUrl: "https://example.com"
