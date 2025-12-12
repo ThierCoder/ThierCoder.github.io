@@ -259,7 +259,7 @@ params:
   # Achievements
   achievements:
     enable: true
-    # title: "Mes Certificats"
+    title: "Mes Certificats"
     items:
       - title: C++ Programming
         content: Pour avoir suivi le cours “Complete Guide to C++ Programming Foundations” de Eduardo Corpeño !
