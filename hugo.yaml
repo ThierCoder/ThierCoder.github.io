@@ -31,9 +31,9 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
+    - identifier: projets
       name: Projets
-      title: Blog posts
+      title: projets
       url: /blogs
       weight: 1
     #- identifier: gallery
@@ -282,7 +282,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     title: "Projets"
     items:
       - title: Hugo Profile
