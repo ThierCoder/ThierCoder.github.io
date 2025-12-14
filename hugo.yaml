@@ -346,10 +346,10 @@ params:
 
   footer:
     recentPosts:
-      path: "blogs"
+      path: "projets"
       count: 3
-      title: Recent Posts
-      enable: false
+      title: Projets récement consultés
+      enable: true
       disableFeaturedImage: false
     #socialNetworks:
       #github: https://github.com
@@ -375,7 +375,7 @@ params:
 
   # For translations
   terms:
-    read: "Read"
+    read: "Détails..."
     toc: "Table Of Contents"
     copyright: "All rights reserved"
     pageNotFound: "Page not found"
