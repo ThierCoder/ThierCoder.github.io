@@ -31,10 +31,10 @@ markup:
 
 Menus:
   main:
-    - identifier: projets
+    - identifier: Projets
       name: Projets
-      title: projets
-      url: /blogs
+      title: Projets
+      url: /projets
       weight: 1
     #- identifier: gallery
     #  name: Gallery
